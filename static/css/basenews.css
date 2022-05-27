@@ -1,0 +1,17 @@
+h1
+{
+  color: green;
+}
+
+h2
+{
+  color: darkblue;
+  margin-top: 130px;
+  font-size: 33px;
+  text-decoration-line: underline;
+}
+#image {
+  padding-top: 40px;
+  padding-bottom: 45px;
+
+}
